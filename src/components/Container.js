@@ -14,7 +14,7 @@ function Container({
       <div className={`container-children ${direction} ${contentPosition}`}>
         {children}
       </div>
-    </div>
+      </div>
   );
 }
 
